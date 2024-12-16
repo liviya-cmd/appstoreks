@@ -17,7 +17,7 @@ class _MyAppState extends State<MyApp> {
     return MaterialApp(
       home: Container(
         child: Center(
-          child: Text('welcome mister kumar'),
+          child: Text('welcome  kumar'),
         ),
       ),
     );
